@@ -81,13 +81,10 @@
 		88DB8A6B1A72EBB200BBA941 /* TipCalculator */ = {
 			isa = PBXGroup;
 			children = (
-				88DB8A701A72EBB200BBA941 /* AppDelegate.h */,
-				88DB8A711A72EBB200BBA941 /* AppDelegate.m */,
 				88DB8A731A72EBB200BBA941 /* ViewController.h */,
 				88DB8A741A72EBB200BBA941 /* ViewController.m */,
 				88DB8A761A72EBB200BBA941 /* Main.storyboard */,
 				88DB8A791A72EBB200BBA941 /* Images.xcassets */,
-				88DB8A7B1A72EBB200BBA941 /* LaunchScreen.xib */,
 				88DB8A6C1A72EBB200BBA941 /* Supporting Files */,
 			);
 			path = TipCalculator;
@@ -96,6 +93,9 @@
 		88DB8A6C1A72EBB200BBA941 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				88DB8A7B1A72EBB200BBA941 /* LaunchScreen.xib */,
+				88DB8A701A72EBB200BBA941 /* AppDelegate.h */,
+				88DB8A711A72EBB200BBA941 /* AppDelegate.m */,
 				88DB8A6D1A72EBB200BBA941 /* Info.plist */,
 				88DB8A6E1A72EBB200BBA941 /* main.m */,
 			);
