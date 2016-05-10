@@ -200,7 +200,7 @@
 				TargetAttributes = {
 					88DB8A681A72EBB200BBA941 = {
 						CreatedOnToolsVersion = 6.1.1;
-						DevelopmentTeam = L4FET847JL;
+						DevelopmentTeam = EK4C4R4CVX;
 					};
 					88DB8A811A72EBB200BBA941 = {
 						CreatedOnToolsVersion = 6.1.1;
@@ -384,7 +384,7 @@
 				);
 				INFOPLIST_FILE = TipCalculator/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.buddybuild.renato.TipCalculator;
+				PRODUCT_BUNDLE_IDENTIFIER = com.renato.TipCalculator;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 			};
@@ -402,7 +402,7 @@
 				);
 				INFOPLIST_FILE = TipCalculator/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.buddybuild.renato.TipCalculator;
+				PRODUCT_BUNDLE_IDENTIFIER = com.renato.TipCalculator;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 			};
